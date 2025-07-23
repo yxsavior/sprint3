@@ -1,0 +1,13 @@
+Sprint Retrospective
+
+O que funcionou bem:
+1 - O uso de branches separadas no Git (index e contato) garantiu organização e controle de versionamento eficaz.
+2 - A integração com o GitHub foi eficiente para armazenamento e compartilhamento dos arquivos do projeto.
+3 - As histórias de usuário foram claras e objetivas, facilitando a execução das tarefas.
+4 - O tempo disponível para o sprint foi adequado.
+
+O que não funcionou bem:
+1 - Dificuldades com comandos do Git resultaram em constante revisão de conceitos.
+
+Sugestões de melhoria:
+1 - Revisar e listar os comandos principais do Git antes do sprint para garantir maior fluidez nas atividades de versionamento.
