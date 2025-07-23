@@ -1,0 +1,11 @@
+Sprint Backlog
+
+História ID: 1
+Descrição: Mudar a cor dos nomes dos veículos na página index para azul.
+Esforço estimado: 2 horas
+Observações: Editar o HTML manualmente.
+
+História ID: 3
+Descrição: Atualizar os nomes dos links da página contato para um nome mais detalhado.
+Esforço estimado: 1 hora
+Observações: Editar o HTML manualmente.
